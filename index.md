@@ -5,3 +5,5 @@
 ##### Header 5
 ###### Header 6
 this file was for testing purposes
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
